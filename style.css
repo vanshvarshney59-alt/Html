@@ -1,0 +1,47 @@
+#blog{
+text-align: center;
+    text-decoration: solid;
+    color: crimson;
+}
+.container{
+    display: flex;
+    align-items: ;
+    
+}
+.left{
+    width: 500px;
+    height: 500px;
+    margin-right: 250px;
+    padding: auto;
+}
+.right{
+    width: 25px;
+    height: 25px;
+    margin-right: 250px;
+    padding: auto;
+}
+.right img{
+    height: 300px;
+    width: 250px;
+}
+.container01{
+    display: flex;
+    align-items: ;
+    
+}
+.left01{
+    width: 500px;
+    height: 500px;
+    margin-right: 250px;
+    padding: auto;
+}
+.right01{
+    width: 25px;
+    height: 25px;
+    margin-right: 250px;
+    padding: auto;
+}
+.right01 img{
+    height: 500px;
+    width: 500px;
+}
